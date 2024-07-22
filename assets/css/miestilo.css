@@ -1,0 +1,85 @@
+body {
+    background-color: #dee699;
+    color: #333;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    
+    }
+    
+    .parrafo1 { 
+        text-align:center;
+        font-weight: bold;
+        font-style: italic;        
+    }
+
+    .division1 {
+        text-align:center;
+        font-weight:normal ;
+        font-style: italic;
+            
+    }
+
+ 
+    header {
+        background-color: #C1FF72;
+        color: #481f1f;
+        text-align: center;
+        padding: 20px;
+        }
+        
+
+
+        section {
+        padding: 20px; /* espaciado para la sección de 20 pixeles */}
+         
+        
+        footer {
+        background-color: #68a8bf; /* Color de fondo del footer */
+        color: #fff;
+        padding: 10px 0;
+        text-align: center;
+        }
+        
+        .footer-content li {
+        max-width: 800px; /* Ancho máximo del contenido del footer */
+        margin: 0 auto; /* Centrar el contenido del footer horizontalmente */
+        display: inline-block;
+        }
+
+        /* Estilos para el nav y enlaces de ul y li */
+nav {
+    background-color: #b366af;
+    padding: 10px;
+    }
+    
+    nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    }
+   
+    nav ul li {          
+    display: inline-block;
+    margin-right: 20px;
+    }
+   
+    nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    padding: 8px 16px;
+    border-radius: 5px;
+    }
+   
+    nav ul li a:hover {
+    background-color: #2f8247;
+    }
+
+   
+    .contenedor {
+        text-align: center;
+        padding: 10px;
+        
+    }
+
